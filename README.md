@@ -58,6 +58,8 @@ The bank shows:
 ## Author
 **Vedika Kirve**
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+
 Email: vedikakirve6@gmail.com  
 LinkedIn: (www.linkedin.com/in/vedikakirve06)  
-GitHub: [github.com/VedikaKirve](https://github.com/VedikaKirve)
+GitHub: (https://github.com/VedikaKirve)
+

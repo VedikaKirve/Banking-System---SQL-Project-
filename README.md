@@ -10,3 +10,7 @@ This project is ideal for learning:
 - Performing analytics on financial data.
 - Preparing data for visualization (e.g., Power BI).
 
+## Project Objective
+Build a realistic banking system database to analyze customer behavior, account activity, loans, and branch performance using PostgreSQL to answer specific business questions and derive insights from the sales data.
+
+

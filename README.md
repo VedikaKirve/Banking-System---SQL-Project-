@@ -15,11 +15,11 @@ Build a realistic banking system database to analyze customer behavior, account 
 
 ## Business Questions
 ### Basic Queries:
-1. List all customers with their email and phone number.
+1. List all customers with their full name, email and phone number.
 2. Show all accounts with account type and balance.
 3. Find all transactions above ₹50,000.
-4. List all active loans.
-5. Show all branches in a specific city.
+4. List all active loans with their account ID and loan amount.
+5. Show all branches in the city "Mumbai".
 
 ### Intermediate Queries:
 1. Calculate total balance per customer.
@@ -31,7 +31,7 @@ Build a realistic banking system database to analyze customer behavior, account 
 ### Advanced Queries:
 1. Find the top 5 customers with the highest total balance.
 2. Detect accounts with no activity for the last 6 months.
-3. Calculate monthly revenue from interest on loans.
+3. Calculate monthly revenue from interest on active loans.
 4. Generate a summary of deposits vs withdrawals per branch.
 5. Identify customers who frequently overdraw (negative balance).
 
